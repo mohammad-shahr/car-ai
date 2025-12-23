@@ -2,7 +2,7 @@
 Flask
 Flask-CORS
 Werkzeug
-
+gunicorn
 # Data Processing
 pandas
 numpy
@@ -15,4 +15,5 @@ openai
 python-dotenv
 
 # Additional utilities
+
 requests
