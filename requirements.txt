@@ -1,0 +1,18 @@
+# Core Web Framework
+Flask
+Flask-CORS
+Werkzeug
+
+# Data Processing
+pandas
+numpy
+openpyxl
+
+# AI/ML (Optional - for AI features)
+openai
+
+# Environment Variables
+python-dotenv
+
+# Additional utilities
+requests
